@@ -2,7 +2,7 @@
 
 ## Documentation
 
-- [中国肉食数据图谱摘要 China Meat Atlas Summary](_posts/2020-1-1-China_Meat_Atlas_Summary.md)
+- [中国肉食数据图谱摘要 China Meat Atlas Summary](_posts/2020-01-01-China_Meat_Atlas_Summary.md)
 
 
 ## Population & Key Indicators of Macro-Statistics

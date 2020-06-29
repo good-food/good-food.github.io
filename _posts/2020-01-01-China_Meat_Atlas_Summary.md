@@ -103,7 +103,10 @@ FAO: Food and Agriculture Organization of UN 联合国粮农组织
 
 ## 联系 Contact
 
-良食数据研究组-开发者 GFF data research group- developers
+良食数据研究组-开发者 GFF data research group - developers
 
-小匡 Atom
+项目经理：小匡 Atom
 tom.fullice@gmail.com
+
+开发: [Sheldon Lee](www.sheldonl.com)
+
