@@ -9,7 +9,7 @@ status: published
 
 ---
 
-[BACK TO HOME](https://tane-rs.github.io/meat_atlas/)
+[BACK TO HOME](https://meatatlas.github.io)
 
 # {{page.title}}
 By {{page.author}} | 
