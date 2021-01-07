@@ -175,7 +175,7 @@ Please see:
 
 ---
 
-[BACK TO HOME](https://tane-rs.github.io/meat_atlas/)
+[BACK TO HOME](https://meatatlas.github.io)
 
 
 {% for tag in page.tags %}
